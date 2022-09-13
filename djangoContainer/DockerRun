@@ -1,0 +1,19 @@
+#!/usr/bin/s#!/bin/sh
+
+# QUICK LAUNCH: Execute this file from the terminal.
+
+# Build the image
+#docker build -t django-mysql .
+
+#read -p "Building Image: Press any key to resume ..."
+# Bash add pause prompt for 5 seconds ##
+#read -t 5 -p "Firing up a Django container..."
+
+# Launch the container
+#docker run -dp 8000:8000 django-mysql
+
+#read -p "Opening Chrome: Press any key to continue ..."
+# Open browser
+start chrome http://localhost:8000
+
+# docker push devopsmarbella/repo-one:tagname
