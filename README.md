@@ -12,7 +12,7 @@ Note: Django Mysql is not ideal under heavy traffic and is suited for low to mod
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/7ZqdP8cB/django-Mysql-Screenshot.png)
+![App Screenshot](https://i.postimg.cc/FRGgx8GK/django-Mysql-Screenshot.png)
 
 
 ## Features
