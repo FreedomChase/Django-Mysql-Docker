@@ -1,4 +1,5 @@
 
+
 # Django Mysql Container
 
 This project is a Docker container which runs a Django Development server and Mysql Database Server Stack with optional GUI. 
@@ -7,6 +8,11 @@ The project is intended for developers with some knowledge of Python, Django and
 It was designed to get Django devs up and running faster with a more powerful database engine. 
 
 Note: Django Mysql is not ideal under heavy traffic and is suited for low to moderate traffic applications.
+
+
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/7ZqdP8cB/django-Mysql-Screenshot.png)
 
 
 ## Features
