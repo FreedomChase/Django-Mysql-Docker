@@ -6,7 +6,7 @@ django-mysql==3.8.1
 mysqlclient==2.1.1
 proxy-tools==0.1.0
 pycparser==2.21
-pythonnet==3.0.0rc4
+pythonnet==3.0.0a2
 pywebview==3.6.3
 sqlparse==0.4.2
 tzdata==2022.2
